@@ -72,6 +72,7 @@ We’re building the future of AI-powered trading. Be part of it.
 🔗 [GitHub: MaDaZAI](https://github.com/MaDaZAI)  
 🔗 [LinkedIn: ahmed-madazai](https://www.linkedin.com/in/ahmed-madazai-3a1b8a372)
 🔗 [Website: MaDaZ-AI](https://madazai.github.io/MaDaZ-AI-website/) 
+
  
 ---
 
