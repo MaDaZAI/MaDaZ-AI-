@@ -70,7 +70,7 @@ We’re building the future of AI-powered trading. Be part of it.
 
 📧 [contact.madazai@gmail.com](mailto:contact.madazai@gmail.com)  
 🔗 [GitHub: MaDaZAI](https://github.com/MaDaZAI)  
-🔗 [LinkedIn: 
+🔗 [LinkedIn: https://www.linkedin.com/in/ahmed-eid-064758373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 🔗 [Website: MaDaZ-AI](https://madazai.github.io/MaDaZ-AI-website/)
 
 ---
